@@ -1,1 +1,2 @@
 hello
+file was changed by another developer
